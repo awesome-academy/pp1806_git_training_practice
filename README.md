@@ -2,3 +2,5 @@
 Training Git Awesome Academy
 
 Le Sy Duc
+
+Le Duc Anh
