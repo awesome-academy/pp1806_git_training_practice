@@ -26,3 +26,4 @@ class HomeController extends Controller
         return view('home');
     }
 }
+ ducanh da sua o day ^_^
